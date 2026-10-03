@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\bin\Debug\Juego Clicker.exe.config
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\bin\Debug\Juego Clicker.exe
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\bin\Debug\Juego Clicker.pdb
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\App.g.cs
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker_MarkupCompile.cache
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker_MarkupCompile.lref
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\MainWindow.baml
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker.g.resources
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego_Clicker.Properties.Resources.resources
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker.exe
+C:\Users\usuario\Documents\C#\Juego Clicker\Juego Clicker\obj\Debug\Juego Clicker.pdb

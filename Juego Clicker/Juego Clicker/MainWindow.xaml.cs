@@ -60,6 +60,7 @@ namespace Juego_Clicker
             {
                 btnJuego.Visibility = Visibility.Hidden;
                 btnMejora.Visibility = Visibility.Hidden;
+                btnCreditos.Visibility = Visibility.Hidden;
 
                 txtCadaVez.Visibility = Visibility.Hidden;
                 txtCoste.Visibility = Visibility.Hidden;
